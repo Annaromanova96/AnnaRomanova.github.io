@@ -1,8 +1,6 @@
 # Проектирование информационных систем
 ## Романова Анна Евгеньевна ИДБ-14-13
-<strong><em><font color="red">Текст</font></em></strong>
-<ol><strong> <font color="blue">
-  Список задач</font></strong>
+<strong><ol><font color="green">Список задач</font></ol></strong>
 <li>Зарегистрироваться на сайте github.com.<br>
 <li>В личном репозитории отредактировать файл readme.md.<br>
 <li>Добавить ссылку на личную страницу в списке группы с использованием fork.<br>
