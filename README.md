@@ -1,6 +1,6 @@
 # Проектирование информационных систем
 ## Романова Анна Евгеньевна ИДБ-14-13
-
+<strong><em><font color="red">Текст</font></em></strong>
 <ol><strong> <font color="blue">
   Список задач</font></strong>
 <li>Зарегистрироваться на сайте github.com.<br>
